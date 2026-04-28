@@ -13,4 +13,3 @@ git commit -m "hpWin: $(date)"
 gh repo crearte --public --source=. --remote=origin
 git push -u origin main
 ```
-### Firefox Settings
